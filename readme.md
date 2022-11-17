@@ -10,5 +10,10 @@
         name, 
         password
     }
+- /login
+    - Passando: {
+        name, 
+        password
+    }
 
 - /getRegister: Para retornar os registros criados
